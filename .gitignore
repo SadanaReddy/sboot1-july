@@ -1,0 +1,22 @@
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+##############################
+## Maven
+##############################
+target/
+!.mvn/wrapper/maven-wrapper.jar
