@@ -1,6 +1,7 @@
 package patient.details.model;
 
 public class Patient {
+
 	private int patientMRN;
 	private String firstName;
 	private String LastName;
